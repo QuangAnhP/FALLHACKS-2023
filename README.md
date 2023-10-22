@@ -9,4 +9,12 @@
 - ChatGPT (used when brainstorming idea, debugging)
 
 ## How to run:
-(we actually don't know that yet so yeah good luck)
+1. Download everything but Sketch.png (that's just for comparing between the final product and the prototype)
+2. Run index.html (easier to see product if download this extension: bianxianyang.htmlplay)
+3. Enjoy
+
+
+
+
+
+4. Realize that half of the buttons aren't working (optional)
