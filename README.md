@@ -1,6 +1,6 @@
 # Ambition Leaf - FALLHACKS-2023
 ## Made by:
-- Irene Luu
+- Irene Luu - https://github.com/thanhha1210
 - Quang Anh Pham - https://github.com/QuangAnhP
 - Quinnie Cao - https://github.com/caokhanhquynh
 
